@@ -1,0 +1,31 @@
+[
+  {
+    "id": "user-1",
+    "email": "user@melodia.com",
+    "name": "Alex Listener",
+    "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "role": "user",
+    "likedSongs": [
+      "song-1",
+      "song-3"
+    ]
+  },
+  {
+    "id": "user-2",
+    "email": "admin@melodia.com",
+    "name": "Sarah Curator (Admin)",
+    "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "role": "admin",
+    "likedSongs": [
+      "song-2"
+    ]
+  },
+  {
+    "id": "IKZSM3qAmeatroUsY1KDFJJHQnz2",
+    "email": "palakbalani23@gmail.com",
+    "name": "palak",
+    "role": "user",
+    "likedSongs": [],
+    "avatarUrl": "/uploads/taylor_swift_avatar_1784026085163.jpg"
+  }
+]

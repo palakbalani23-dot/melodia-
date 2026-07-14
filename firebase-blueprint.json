@@ -1,0 +1,43 @@
+{
+  "entities": {
+    "HistoryEntry": {
+      "title": "HistoryEntry",
+      "description": "A record of a song playback event by a user",
+      "type": "object",
+      "properties": {
+        "songId": {
+          "type": "string",
+          "description": "The unique ID of the song"
+        },
+        "title": {
+          "type": "string",
+          "description": "The title of the song"
+        },
+        "artist": {
+          "type": "string",
+          "description": "The artist of the song"
+        },
+        "coverUrl": {
+          "type": "string",
+          "description": "The cover image URL of the song"
+        },
+        "userId": {
+          "type": "string",
+          "description": "The UID of the user who played the song"
+        },
+        "playedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "The ISO timestamp when the song was played"
+        }
+      },
+      "required": ["songId", "title", "artist", "userId", "playedAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}/history/{historyId}": {
+      "schema": "HistoryEntry",
+      "description": "User specific song play history"
+    }
+  }
+}

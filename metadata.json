@@ -1,0 +1,6 @@
+{
+  "name": "Melodia Music Companion",
+  "description": "Cloud Music & Smart Playlist Companion with AI Recommendations, secure user accounts, cloud uploads, and responsive audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

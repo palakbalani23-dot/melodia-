@@ -1,0 +1,29 @@
+[
+  {
+    "id": "playlist-1",
+    "name": "Late Night Study Essentials",
+    "description": "Relaxing lofi & ambient beats to help you focus and study deeply.",
+    "songs": [
+      "song-1",
+      "song-3",
+      "song-5"
+    ],
+    "createdBy": "system",
+    "creatorName": "Melodia Curators",
+    "isPublic": true,
+    "coverUrl": "/uploads/starlight_dreams_simple.jpg"
+  },
+  {
+    "id": "playlist-2",
+    "name": "Synthwave Retro Drive",
+    "description": "Cruising through the digital night with up-beat synthwave rhythms.",
+    "songs": [
+      "song-2",
+      "song-4"
+    ],
+    "createdBy": "system",
+    "creatorName": "Melodia Curators",
+    "isPublic": true,
+    "coverUrl": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=400&q=80"
+  }
+]

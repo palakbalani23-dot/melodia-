@@ -1,0 +1,82 @@
+[
+  {
+    "id": "song-1",
+    "title": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "duration": 178,
+    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/af/81/44af8168-9609-1b85-5048-ada08dceacf3/mzaf_1341699644335558812.plus.aac.p.m4a",
+    "coverUrl": "/uploads/taylor_swift_song_cover.jpg",
+    "isCustomUpload": false
+  },
+  {
+    "id": "song-2",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "duration": 231,
+    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/55/b1/7955b10c-6cb6-462a-861c-8e5cbcacfb76/mzaf_3395570742482345989.plus.aac.p.m4a",
+    "coverUrl": "/uploads/blank_space_cover.jpg",
+    "isCustomUpload": false
+  },
+  {
+    "id": "song-3",
+    "title": "Lover",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "duration": 221,
+    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/db/47/e0db47b0-7f70-0631-0414-cd4777d2fb3e/mzaf_6362891154838442638.plus.aac.p.m4a",
+    "coverUrl": "/uploads/lover_cover.jpg",
+    "isCustomUpload": false
+  },
+  {
+    "id": "song-4",
+    "title": "Anti-Hero",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "duration": 200,
+    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/56/2a/1d562a07-dc5f-a9c0-1f36-2051a8c14eb7/mzaf_7214829135431340590.plus.aac.p.m4a",
+    "coverUrl": "/uploads/anti_hero_cover.jpg",
+    "isCustomUpload": false
+  },
+  {
+    "id": "song-5",
+    "title": "Bad Guy",
+    "artist": "Billie Eilish",
+    "genre": "Pop/Alternative",
+    "duration": 194,
+    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/87/1f/c3871f7e-3260-d615-1c66-5fdca2c3a48f/mzaf_10721331211699880949.plus.aac.p.m4a",
+    "coverUrl": "/uploads/bad_guy_cover.jpg",
+    "isCustomUpload": false
+  },
+  {
+    "id": "song-6",
+    "title": "Ocean Eyes",
+    "artist": "Billie Eilish",
+    "genre": "Alternative/Indie",
+    "duration": 200,
+    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/59/2b/d6592b0b-1e7e-4743-b2e4-f2af038fd783/mzaf_7697277787797935735.plus.aac.p.m4a",
+    "coverUrl": "/uploads/ocean_eyes_cover.jpg",
+    "isCustomUpload": false
+  },
+  {
+    "id": "song-7",
+    "title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "genre": "Alternative/Indie",
+    "duration": 298,
+    "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/6b/20/8c6b203a-cadc-25b3-1c91-2a8e77210e31/mzaf_9684961884676177661.plus.aac.p.m4a",
+    "coverUrl": "/uploads/happier_cover.jpg",
+    "isCustomUpload": false
+  },
+  {
+    "id": "song-8",
+    "title": "Neon City Lights",
+    "artist": "Synthwave Echo",
+    "genre": "Synthwave",
+    "duration": 423,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=400&q=80",
+    "isCustomUpload": false
+  }
+]
